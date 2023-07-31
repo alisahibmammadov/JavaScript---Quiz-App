@@ -1,19 +1,3 @@
-// let duzgunCavablar = [1, 2, 3, 4];
-// let verilenCavablar = [2, 4, 6];
-// let yekunNetice = [];
-
-// duzgunCavablar.forEach((item) => {
-//   for (let i = 0; i <= verilenCavablar.length; i++) {
-//     if (item === verilenCavablar[i]) {
-//       yekunNetice.push(item);
-//     }
-//   }
-// });
-
-// console.log(yekunNetice, " Verilen Duzgun cavablar");
-// let say = duzgunCavablar.length - yekunNetice.length;
-// console.log("Duzgun cavablarin sayi", say);
-// console.log("Suallarin sayi:", duzgunCavablar.length);
 
 const questions = [
   {
